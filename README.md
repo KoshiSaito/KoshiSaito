@@ -21,7 +21,11 @@
   査読：無  
   発表時期：2025年3月  
   卒業研究を学部４年生のうちに発表したい！と思い卒業論文と並行して原稿執筆に取り組みました．  
-  合宿形式の研究会で他大学の学生や先生たちとたくさん交流できて刺激を受けました．  
+  合宿形式の研究会で他大学の学生や先生たちとたくさん交流できて刺激を受けました．
+- **The 8th Asian Conference on Pattern Recognition (ACPR 2025)**
+  発表題目：[Estimating Learners' Position and Work Time for Teaching Reflection in Agricultural Training]([https://doi.org/10.11517/jsaialst.103.0_105](https://acpr2025.com/papers#:~:text=54,in%20Agricultural%20Training))    
+  査読：有
+  発表時期：2025年11月
 
 ## 保有資格
 - 実用英語技能検定　準一級取得（2020年3月）
@@ -31,6 +35,13 @@
 - トライアスロン（インカレ出場経験あり）
 - ピアノ
 
+## アルバイト経験
+- 個別指導塾講師（大1,2年）
+- スーパーマーケット日配（大3,4年）
+- 大学売店（大3,4年）
+- データ分析系のアルバイト（修士1年から継続中）
+
 ## 🔗 所属・リンク
 - [イメージ・メディア理解研究室](https://limu.ait.kyushu-u.ac.jp/index.html)
 - [九州大学トライアスロン部GAIA](https://kyushu-triathlon-gaia.jimdofree.com/)
+- [Kaggleアカウント](https://www.kaggle.com/koshisaito)
